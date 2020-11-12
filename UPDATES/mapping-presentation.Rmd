@@ -222,6 +222,9 @@ dcc_bar(2017,"alabama","Hurricane")
 #
 <h1>Shiny app</h1>
 <p>After cleaning and mapping, we build an interactive web app
-by Shiny to present our data and plots more visually.
-Here is the link to our app: [Link](https://zc9714.shinyapps.io/Mapping2/)
-</p>
+by Shiny to present our data and plots more visually.</p>
+
+<div align=center>![Interface 1](/Users/wendyliang/Desktop/view1.png)
+
+<div align=center>![Interface 2](/Users/wendyliang/Desktop/view2.png)
+
